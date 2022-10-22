@@ -4,7 +4,7 @@
 
 <span style="font-size:24px;"> [Script Source Gode](https://github.com/jelaw21/Widgets-And-Gidgets)</span>
 
-Demonstrates use of a many different managers which execute different aspects of the game. One of the highlights is a GlobalData manager which controls and processes data used in many of the different classes and functions throughout the game. 
+Demonstrates use of many different managers which execute different aspects of the game. One of the highlights is a GlobalData manager which controls and processes data used in many of the different classes and functions throughout the game. 
 
 <span style="font-size:24px;">  [Game Store page on Steam](https://store.steampowered.com/app/1333870/Widgets_and_Gidgets/)</span> 
 
