@@ -2,7 +2,7 @@
 
 ## Widgets and Gidgets Scripts (C# / Unity)
 
-### [Script Source Gode](https://github.com/jelaw21/Widgets-And-Gidgets)
+<span style="font-size:64px;">[Script Source Gode](https://github.com/jelaw21/Widgets-And-Gidgets)</span>
 
 Demonstrates use of a many different managers which execute different aspects of the game. One of the highlights is a GlobalData manager which controls and processes data used in many of the different classes and functions throughout the game. 
 
