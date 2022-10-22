@@ -1,3 +1,6 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: "Joshua Law's Projects"
+description: A collection of my best works over the last 5 years.
